@@ -1,1 +1,1 @@
-# digitalteknik---lab5
+# MIPS
